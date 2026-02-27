@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/codealpha_flashcardapp/static/css/main.f0e88f3d.css",
+    "main.js": "/codealpha_flashcardapp/static/js/main.30867826.js",
+    "index.html": "/codealpha_flashcardapp/index.html",
+    "main.f0e88f3d.css.map": "/codealpha_flashcardapp/static/css/main.f0e88f3d.css.map",
+    "main.30867826.js.map": "/codealpha_flashcardapp/static/js/main.30867826.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0e88f3d.css",
+    "static/js/main.30867826.js"
+  ]
+}
